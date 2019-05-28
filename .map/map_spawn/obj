@@ -1,0 +1,22 @@
+12:7
+0
+5
+1B:1:5:4:9:Be careful, it's%dangerous there.%Zombies are scary!:Cheater:1:-1:1
+1A:1:0:10:5:QUEST%I NEED BANDAGE%RIGHT NOW!:QUEST END%Thank you! Take%the blood i lost.:10000:2:3
+1A:1:5:19:5:QUEST%Hey, did you have%some "herbs" ?:QUEST END%Thank you bro,%take this gun.%:10:10:8
+1B:4:0:15:8:QUEST%Bring me a brain%for my reshearch!:QUEST END%Nice, SLURP!%Take this crowbar.:100:11:5
+1B:7:2:4:5:QUEST%This knife is too%light, AXE POWER!:QUEST END%SOME HEAD WILL%FALL!!!:1000:6:7
+11
+A:0:5:l:map_one
+A:0:6:l:map_one
+A:0:7:l:map_one
+A:0:8:l:map_one
+A:0:9:l:map_one
+A:0:10:l:map_one
+A:10:13:d:map_tree
+A:11:13:d:map_tree
+A:12:13:d:map_tree
+A:13:13:d:map_tree
+B:13:3:u:map_c
+0
+1
